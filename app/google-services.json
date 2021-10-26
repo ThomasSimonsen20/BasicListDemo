@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "130284112290",
+    "project_id": "notebookproject-dd7bb",
+    "storage_bucket": "notebookproject-dd7bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130284112290:android:db6454e2eeb8ddb96c4afb",
+        "android_client_info": {
+          "package_name": "com.joneikholm.basiclistdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130284112290-ta9mhe7vh3gikidljlq1vvihm7422ilk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjhi47xKUOMu94vDMShGFrPl_OAXgriGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130284112290-ta9mhe7vh3gikidljlq1vvihm7422ilk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130284112290-m29juebqi5jmh1vhb68b0p0bn7pcjpjb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Kea.notebookToCloud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
